@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  ConsoleApplication4.cpp
+c:\users\13109\desktop\2019 1학기\c++프로그래밍\190404\consoleapplication4\consoleapplication4.cpp(7): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+  ConsoleApplication4.vcxproj -> C:\Users\13109\Desktop\2019 1학기\C++프로그래밍\190404\ConsoleApplication4\Debug\ConsoleApplication4.exe
